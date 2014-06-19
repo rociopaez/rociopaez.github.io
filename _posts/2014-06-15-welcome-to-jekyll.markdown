@@ -1,16 +1,41 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My project"
 date:   2014-06-15 19:25:36
-categories: jekyll update
+categories: Proyect Summer of Code
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+My project is to create a software that werves to help and understand the process of migraines more clearly.
 
-Jekyll also offers powerful support for code snippets:
+Migraines Affect a lot of women in the world. I suffer from migraine so I found it interesting to be able to contribute in this project.
+
+Yesterday I had my first class and customize my terminal, it was quite interesting, as it is amazing that from your own terminal can absolutely configure everything (can update versions of Ruby, do upgrades and updates, etc.) I love the way it works.
+
+I learned to use a gem called Jekyll this will generate a structure to build your websites, it's really cool to use.
+
+It is now less than 2 weeks until the start of the course and I'm super excited to continue learning.
+I love the feeling of knowing how to code and understand how it runs.
+
+Update the version of Ruby in the terminal: 
 
 {% highlight ruby %}
+
+rbenv shell 2.1.2
+
+ruby -v
+
+{% endhighlight %}
+
+
+
+
+Today I will learn how to configure my DNS I will tell you more about it.
+
+
+
+
+
+<!-- {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
@@ -22,3 +47,6 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
+ -->
+
+ 
