@@ -2,7 +2,7 @@
 layout: post
 title:  "My project"
 date:   2014-06-15 19:25:36
-categories: Proyect Summer of Code
+categories: Project Summer of Code
 ---
 
 My project is to create a software that werves to help and understand the process of migraines more clearly.
@@ -29,7 +29,7 @@ ruby -v
 
 
 
-Today I will learn how to configure my DNS I will tell you more about it.
+Today I will learn how to configure my DNS I will tell you more about it later.
 
 
 
