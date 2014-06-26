@@ -2,7 +2,7 @@
 layout: post
 title:  "My Motivations"
 date:   2014-06-15 19:25:36
-categories: Proyect Summer of Code
+categories: Project Summer of Code
 ---
 
 One of my hobbies is dancing flamenco, I dance every night (Mon-Sat) since 2007, it's my passion, I will never stop.

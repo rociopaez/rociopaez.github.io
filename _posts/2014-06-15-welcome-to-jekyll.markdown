@@ -5,18 +5,18 @@ date:   2014-06-15 19:25:36
 categories: Project Summer of Code
 ---
 
-My project is to create a software that werves to help and understand the process of migraines more clearly.
+My project is to create a software that serves to help and understand the process of migraines more clearly.
 
 Migraines Affect a lot of women in the world. I suffer from migraine so I found it interesting to be able to contribute in this project.
 
-Yesterday I had my first class and customize my terminal, it was quite interesting, as it is amazing that from your own terminal can absolutely configure everything (can update versions of Ruby, do upgrades and updates, etc.) I love the way it works.
+Yesterday I had my first class and customise my terminal, it was quite interesting, as it is amazing that from your own terminal can absolutely configure everything (can update versions of Ruby, do upgrades and updates, etc.) I love the way it works.
 
 I learned to use a gem called Jekyll this will generate a structure to build your websites, it's really cool to use.
 
 It is now less than 2 weeks until the start of the course and I'm super excited to continue learning.
 I love the feeling of knowing how to code and understand how it runs.
 
-Update the version of Ruby in the terminal: 
+Update the version of Ruby in the terminal:
 
 {% highlight ruby %}
 
@@ -48,5 +48,3 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
  -->
-
- 

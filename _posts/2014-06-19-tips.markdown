@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips"
 date:   2014-06-19 19:25:36
-categories: Proyect Summer of Code
+categories: Project Summer of Code
 ---
 
 How to run **jekyll** in your server
@@ -10,9 +10,9 @@ How to run **jekyll** in your server
 
 {% highlight ruby %}
 
-jekyll server		
+jekyll server
 
-jekyll server  --watch	
+jekyll server  --watch
 
 {% endhighlight %}
 
@@ -29,7 +29,7 @@ In UNIX To pass parameters to Jekyll from the terminal:
 
 
 
-The good thing about this program is that if you get an error as you see lines down the terminal helps you to find the error (you know the exact location ir your source file) 
+The good thing about this program is that if you get an error as you see lines down the terminal helps you to find the error (you know the exact location ir your source file)
 Once you repair the error, you can run the code again.
 
 Example:
@@ -46,7 +46,7 @@ Configuration file: /Users/paez/code/rociopaez.github.io/_config.yml
 
        Destination: /Users/paez/code/rociopaez.github.io/_site
 
-      Generating... 
+      Generating...
 
                     done.
 
@@ -64,8 +64,6 @@ Configuration file: /Users/paez/code/rociopaez.github.io/_config.yml
 
        Destination: /Users/paez/code/rociopaez.github.io/_site
 
-      Generating... 
+      Generating...
 
 {% endhighlight %} -->
-
-
