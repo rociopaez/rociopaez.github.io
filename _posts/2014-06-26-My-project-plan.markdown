@@ -5,11 +5,6 @@ date:   2014-06-26 19:25:36
 categories: Project Summer of Code
 ---
 
-
-## Project Plan
-
- July to September
-
 ### July
 
 #### Week 1
