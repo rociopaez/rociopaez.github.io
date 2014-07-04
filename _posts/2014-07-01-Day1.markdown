@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Day #1"
+date: 2014-07-01 19:25:36
+categories: Project Summer of Code
+---
+My first day in Rails Girls Summer of Code.
+
+![yo](/images/day1.png)
+
+Thinking about how it will be my website...
